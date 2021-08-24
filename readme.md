@@ -45,7 +45,7 @@ weDocs makes browsing and creating documentation a fresh and streamlined experie
 ### UI in Frontend
 [![Frontend View](http://i.imgur.com/DlRyep3.png)](http://i.imgur.com/DlRyep3.png)
 
-Using the shortcoe `[wedocs]`.
+Using the shortcode `[wedocs]`.
 
 ### Single Doc with Navigation
 [![Single Doc](http://i.imgur.com/2hxacre.png)](http://i.imgur.com/2hxacre.png)
